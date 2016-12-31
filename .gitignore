@@ -1,0 +1,10 @@
+# Build
+build/*.js
+build/*.css
+build/images/*.*
+
+# Misc.
+.DS_Store
+
+# Node dependencies
+node_modules

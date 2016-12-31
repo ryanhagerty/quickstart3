@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+  min-height: 90vh;
+}
+
+.background {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 600px;
+}
+
+/* Just an example of using composes */
+.heading {
+  composes: heading from '../../common/base/shared.css';
+  position: absolute;
+  margin: 0;
+}

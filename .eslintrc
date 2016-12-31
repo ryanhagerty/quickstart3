@@ -1,0 +1,28 @@
+{
+  "extends": "react",
+  // Custom overrides below.
+  "env": {
+    "browser": true,
+    "node": true
+  },
+
+  "rules": {
+    "indent": [
+      "error",
+      2
+    ],
+
+    "no-var": [
+      2
+    ],
+
+    "prefer-const": [
+      2
+    ],
+
+    "quotes": [
+      "error",
+      "backtick"
+    ]
+  },
+}

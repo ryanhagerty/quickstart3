@@ -1,0 +1,8 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "at-rule-empty-line-before": [ null ],
+    "property-no-unknown": [ null ],
+    "selector-pseudo-class-no-unknown": [ null ]
+  }
+}

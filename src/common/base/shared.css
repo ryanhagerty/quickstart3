@@ -1,0 +1,9 @@
+@import 'mediaqueries.css';
+
+.heading {
+  font-size: 2rem;
+
+  @media (--medium-screen) {
+    font-size: 4rem;
+  }
+}

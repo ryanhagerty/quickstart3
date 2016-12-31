@@ -1,0 +1,12 @@
+@import 'colors.css';
+
+.header {
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  min-height: 10vh;
+  padding: 0 2rem;
+  background-color: var(--gray);
+  color: var(--yellow);
+}
