@@ -1,16 +1,16 @@
 # :zap: Quickstart3 :zap:
-## The Quickening
 
 Front-end react/webpack scaffold to get started quickly.
 
 ## Let's get started.
-* Have [nvm](https://github.com/creationix/nvm) installed
-* Type `nvm use`
-* Have yarn installed: `brew install yarn` (using [homebrew](http://brew.sh/))
-* Type `yarn install` to install dependencies and build initial files.
-* Type `yarn start` to start developing!
+1. Have [nvm](https://github.com/creationix/nvm) installed
+2. Type `nvm use`
+3. Have [yarn](https://code.facebook.com/posts/1840075619545360) installed: `brew install yarn` (using [homebrew](http://brew.sh/))
+4. Type `yarn install` to install dependencies and build initial files.
+5. Type `yarn start` to start developing!
 
 When ready for deployment, type `yarn build` to build production files.
+To test, type `yarn test` to run your tests. A sample is included.
 
 ## Why use Quickstart3?
 All starter frameworks opinionate ideal starting points for fresh projects. Quickstart3 attempts to find balance between too little and too much configuration.
